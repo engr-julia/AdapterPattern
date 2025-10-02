@@ -14,7 +14,7 @@ You are developing an application that helps users manage and control various el
 ---
 
 ## UML Diagram
-![UML](./UML.png)  <!-- upload UML.png later -->
+![UML](./UML.png)  <!-- upload UML.png -->
 
 ---
 
