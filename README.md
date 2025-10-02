@@ -20,5 +20,5 @@ This project uses Java. Example with plain `javac` / `java`:
 (If using Maven/Gradle, add build instructions here.)
 
 ## Contributing / Scrum
-We use a central GitHub Project board: **AdapterPattern-PowerOutlet Scrum Board** (linked from this repo or at org/user level). See `.github/ISSUE_TEMPLATE/` for issue templates.
+We use a central GitHub Project board: **AdapterPattern-PowerOutlet Scrum Board** (linked from this repo or at org/user level). See `[.github/ISSUE_TEMPLATE/](https://github.com/engr-julia/AdapterPattern/tree/main/.github/ISSUE_TEMPLATE)` for issue templates.
 
